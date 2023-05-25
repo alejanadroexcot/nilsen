@@ -1,0 +1,17 @@
+Datos de los estudiantes 
+001  Facultad de Ingenieria en Informatica y Sistemas FIIS
+*************************
+---->Codigo estudiante: 2023000001---->Correo: juanito.perez@unas.edu.pe---->Apellido:perez---->Nombre:juanito---->Dni:44444444LOS CURSOS 
+Curso: Programacion Basica --> Credito:  4 --> Promedio: 12.666667
+Curso: Diseño de BD --> Credito:  3 --> Promedio: 11.666667
+Curso: Sotfware I --> Credito:  3 --> Promedio: 7.666667
+Curso: Sotfware II --> Credito:  4 --> Promedio: 9.333333
+Curso: Gestion de procesos --> Credito:  4 --> Promedio: 18.333334
+002  Facultad de Zootecnia FZ
+****************************
+---->Codigo estudiante: 2020007---->Correo: manuel.lopez@unas.edu.pe---->Apellido:lopez---->Nombre:manuel---->Dni:20458771LOS CURSOS 
+Curso: Nutricion animal --> Credito:  4 --> Promedio: 16.333334
+Curso: Ecosistemas menores --> Credito:  3 --> Promedio: 11.666667
+Curso: Microbiologia animal --> Credito:  3 --> Promedio: 12.000000
+Curso: Zoologia aplicada --> Credito:  4 --> Promedio: 8.333333
+Curso: Morfologia animal --> Credito:  4 --> Promedio: 12.333333

@@ -1,0 +1,14 @@
+-----------------------------------------------------------------------
+Nombre del departamento: Departamento de Ventas---------->Siglas: DV
+-----------------------------------------------------------------------
+Datos de los empleados: 
+ Puesto: gerente----->Sueldo:2.500000------->Años: 10
+Puesto: Anlista----->Sueldo:950.000000------->Años: 5
+Puesto: Investigador----->Sueldo:5000.000000------->Años: 8
+Puesto: Contador----->Sueldo:5412.000000------->Años: 4
+Puesto: Abogado----->Sueldo:4121.000000------->Años: 8
+Puesto: Secretaria----->Sueldo:4000.000000------->Años: 2
+Puesto: Ingeniero----->Sueldo:3000.000000------->Años: 3
+Puesto: Minero----->Sueldo:5000.000000------->Años: 5
+Puesto: Economista----->Sueldo:1000.000000------->Años: 6
+Puesto: Enfermera----->Sueldo:5500.000000------->Años: 7
