@@ -1,0 +1,5 @@
+CLIENTES COMUNES
+Nombre:Carlos------------->Apellido:Salinas------------->Fecha de compra:02/8/22
+Nombre:Sofia ------------->Apellido:Castro------------->Fecha de compra:01/2/23
+Nombre:Daniel ------------->Apellido:Vargas------------->Fecha de compra:04/10/21
+Nombre:Luciana ------------->Apellido:Gomez------------->Fecha de compra:08/9/20

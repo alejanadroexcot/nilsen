@@ -1,0 +1,7 @@
+-------------------------------------------------------------------
+STOCK DE PRODUCTOS POR FECHA DE REGISTRO, CANTIDAD Y CATEGORIA
+-------------------------------------------------------------------
+-Frenos------------->Fecha de registro:01/02/20------------->Cantidad: 100------------->Categoria: 2
+-Cadenas------------->Fecha de registro:02/03/21------------->Cantidad: 150------------->Categoria: 3
+-Morotres------------->Fecha de registro:10/12/22------------->Cantidad: 75------------->Categoria: 5
+-Bujia------------->Fecha de registro:01/02/23------------->Cantidad: 20------------->Categoria: 8

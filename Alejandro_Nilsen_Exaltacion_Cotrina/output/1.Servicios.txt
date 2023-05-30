@@ -1,0 +1,7 @@
+---------------------------
+SERVICIOS REALIZADOS
+---------------------------
+-Engrase de frenos---------->Realiza: Jose---------->Tiempo: 2 horas
+-Motores internos---------->Realiza: Maria---------->Tiempo: 4 horas
+-Cambio de luz---------->Realiza: Leonardo---------->Tiempo: 5 horas
+-Reparacion de ruedas---------->Realiza: Jose---------->Tiempo: 30 de minutos
