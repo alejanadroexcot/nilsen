@@ -1,0 +1,34 @@
+MENU DINAMICO REPORTES
+1.Stock de productos
+2.Servicios de taller 
+3.Repuestos vendidos
+4.Clientes comunes 
+
+-----------------------------------------
+STOCK DE PRODUCTOS
+-----------------------------------------
+Frenos------------->Fecha de registro:01/02/20------------->Cantidad: 40------------->Categoria: 2
+Frenos------------->Fecha de registro:01/02/20------------->Cantidad: 40------------->Categoria: 2
+Frenos------------->Fecha de registro:01/02/20------------->Cantidad: 40------------->Categoria: 2
+Frenos------------->Fecha de registro:01/02/20------------->Cantidad: 40------------->Categoria: 2
+-----------------------------------------
+SERVICIOS DEL TALLER
+-----------------------------------------
+-Engrase de frenos	 Realiza: Jose	 Tiempo: 2horas
+-Engrase de frenos	 Realiza: Jose	 Tiempo: 2horas
+-Engrase de frenos	 Realiza: Jose	 Tiempo: 2horas
+-Engrase de frenos	 Realiza: Jose	 Tiempo: 2horas
+-----------------------------------------
+REPUESTOS VENDIDOS
+-----------------------------------------
+-Frenos	 Vendidos:4
+-Frenos	 Vendidos:10
+-Frenos	 Vendidos:25
+-Frenos	 Vendidos:35
+-----------------------------------------
+CLIENTES COMUNES
+-----------------------------------------
+1.Carlos	 Consumo de fecha:02/8/22
+2.Carlos	 Consumo de fecha:02/8/22
+3.Carlos	 Consumo de fecha:02/8/22
+4.Carlos	 Consumo de fecha:02/8/22
